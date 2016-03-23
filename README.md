@@ -8,6 +8,7 @@ The code is using Arduino, but one could build the same thing with Node.JS and [
 ## Trombone
 A trombone that fits in your palm.
 See it in action here:
+
 [![Trombone-LittleBits-Arduino](http://img.youtube.com/vi/q8ZCtzoAvg0/0.jpg)](http://www.youtube.com/watch?v=q8ZCtzoAvg0)
 
 
